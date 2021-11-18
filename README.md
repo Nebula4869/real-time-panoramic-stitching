@@ -1,4 +1,4 @@
-# Real-time Panoramic Stitching
+# real-time-panoramic-stitching
 Panorama stitching of images or real-time video streams
 ### Environment
 
